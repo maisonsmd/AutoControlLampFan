@@ -1,7 +1,7 @@
 
 #include <LiquidCrystal.h>
 #include <OneWire.h>
-#include "EEPROM.h"
+#include <EEPROM.h>
 #include <SoftPWM.h>
 
 #define DS18B20_PIN A4
